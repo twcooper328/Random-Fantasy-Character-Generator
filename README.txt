@@ -22,7 +22,7 @@ How resistant the character is to magical attacks
 
 Con - Constitution
 How resistant the character is to physical attacks
-**************************************************
+*************************************************
 *The name of the character affects the stats.
 
 *The character with the lower vitality strikes first. 
